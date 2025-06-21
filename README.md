@@ -512,6 +512,17 @@ This project demonstrates the application of SQL skills in creating and managing
 
 ## Author - Shaik Nayab Rasool
 
+---
+
+## 🔗 Connect with Me
+👋 Hi, I'm **NAYAB RASOOL SHAIK**
+
+[![🔗LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nayabrasool-shaik)  
+[![Email](https://img.shields.io/badge/Email-Send%20Mail-blue?logo=gmail)](mailto:nayabshaik046@example.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?logo=google-chrome)](http://nayabrasool.my.canva.site/)
+
+> _“Learn deeply, build practically, explain simply, and share widely.” – Shaik Nayab Rasool_
+
 This project showcases SQL skills essential for database management and analysis. For more content on SQL and data analysis, connect with me through the Linkedin:
 
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/nayabrasool-shaik/)
